@@ -27,7 +27,7 @@ body {
 .square {
     background-color: white;
     
-    flex: 1 1 auto;
+    flex: 1 1 0;
 
 
     
@@ -37,7 +37,7 @@ body {
     display: flex;
     gap: 3px;
     flex-direction: column;
-    flex: 1 1 auto;
+    flex: 1 1 0;
     
  
   
